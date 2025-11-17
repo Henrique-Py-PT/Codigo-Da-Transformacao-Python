@@ -27,7 +27,6 @@ if validar_login(user_input_a, pass_input_a, DB_USUARIOS):
 else:
     print(f"Falha no login. Usuário ou senha inválidos para: {user_input_a}")
 
-# 2. Login Inválido (Senha Errada)
 user_input_b = "joao"
 pass_input_b = "senhaerrada"
 
