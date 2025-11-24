@@ -1,17 +1,38 @@
-{
-    "cliente_001": {
-        "nome": "Maria Silva",
-        "email": "maria@exemplo.com",
-        "ativo": true
+[
+    {
+        "nome": "Sabrina Rezende",
+        "idade": 54,
+        "cidade": "Novais do Norte",
+        "telefone": "+55 (002) 97865-8755",
+        "email": "maysa23@example.net",
+        "cpf": "281.405.673-53",
+        "endereco": "Favela Dom Dias, 809"
     },
-    "cliente_002": {
-        "nome": "Jo\u00e3o Souza",
-        "email": "joao@exemplo.com",
-        "ativo": false
+    {
+        "nome": "Srta. Maria Gonçalves",
+        "idade": 39,
+        "cidade": "Dias de das Neves",
+        "telefone": "+55 (078) 99074 8370",
+        "email": "abreutheodoro@example.net",
+        "cpf": "103.456.278-90",
+        "endereco": "Estação Benjamin Oliveira, 876"
     },
-    "cliente_003": {
-        "nome": "Ana Oliveira",
-        "email": "ana@exemplo.com",
-        "ativo": true
+    {
+        "nome": "Cauê Alves",
+        "idade": 47,
+        "cidade": "das Neves",
+        "telefone": "+55 (079) 96704 3646",
+        "email": "pedro-henriquegarcia@example.net",
+        "cpf": "170.965.482-11",
+        "endereco": "Trevo de da Cunha, 412"
+    },
+    {
+        "nome": "Dr. Arthur Gabriel Viana",
+        "idade": 44,
+        "cidade": "Moraes",
+        "telefone": "+55 (40) 96460 8371",
+        "email": "ana13@example.net",
+        "cpf": "459.672.310-99",
+        "endereco": "Campo Moura, 431"
     }
-}
+]
